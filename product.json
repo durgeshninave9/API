@@ -1,0 +1,32 @@
+[
+    {
+        "name":"iphone",
+        "price":44,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"samsung A50s",
+        "price":42,
+        "featured":true,
+        "company":"samsung"
+    },
+    {
+        "name":"dell",
+        "price":24,
+        "featured":true,
+        "company":"dell"
+    },
+    {
+        "name":"iphone21",
+        "price":441,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"samsung galaxy",
+        "price":44,
+        "featured":true,
+        "company":"samsung"
+    }
+]
